@@ -5,6 +5,8 @@
 💻 Passionate about **Programming, DSA and Web Development**  
 🚀 Aspiring **Software Engineer** | Problem Solver | Tech Enthusiast  | Dedicated Lifelong Learner
 
+![Profile Views](https://komarev.com/ghpvc/?username=SoumyadeepChattopadhyay2004&label=👀%20Profile%20Views&color=blueviolet&style=flat-square)
+
 ---
 
 ## 🛠️ Tech Stack
