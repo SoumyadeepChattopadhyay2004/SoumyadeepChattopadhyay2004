@@ -5,7 +5,8 @@
 💻 Passionate about **Programming, DSA and Web Development**  
 🚀 Aspiring **Software Engineer** | Problem Solver | Tech Enthusiast  | Dedicated Lifelong Learner
 
-![Profile Views](https://komarev.com/ghpvc/?username=SoumyadeepChattopadhyay2004&label=👀%20Profile%20Views&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=SoumyadeepChattopadhyay2004&label=Profile%20Views&color=0e75b6&style=flat)
+[![Unique Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SoumyadeepChattopadhyay2004/SoumyadeepChattopadhyay2004&title=Unique%20Visitors)](https://hits.seeyoufarm.com)
 
 ---
 
