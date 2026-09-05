@@ -15,7 +15,7 @@
 
 ```yaml
 name: Soumyadeep Chattopadhyay
-role: CSE Undergraduate (3rd Year) @ MSIT, Kolkata | CGPA: 9.21/10
+role: CSE Undergraduate (4th Year) @ MSIT, Kolkata | CGPA: 9.21/10
 current_role: "AI Virtual Intern @ Infosys Springboard"
 focus: [ Machine Learning, Deep Learning, Generative AI, RAG, Multi-Agent Systems ]
 currently_building: "Multi-agent AI systems and RAG pipelines with LangChain + FastAPI"
