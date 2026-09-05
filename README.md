@@ -13,6 +13,8 @@
 
 ## 🧭 About Me
 
+I'm a Computer Science undergraduate at MSIT, Kolkata, focused on building real, working AI systems rather than just studying theory. My current work centers on Generative AI — designing RAG pipelines, multi-agent architectures, and LLM-powered backends with LangChain and FastAPI — alongside a solid foundation in classical Machine Learning and Deep Learning. As an AI Virtual Intern at Infosys Springboard, I've helped boost retrieval accuracy by 28% and cut manual triage time by 45% through production-grade multi-agent automation. I care about writing clean, well-evaluated code, and I'm always looking for ways to turn a research idea into something that actually ships.
+
 ```yaml
 name: Soumyadeep Chattopadhyay
 role: CSE Undergraduate (4th Year) @ MSIT, Kolkata | CGPA: 9.21/10
@@ -36,7 +38,6 @@ pronouns: "He/Him"
 <td width="50%" valign="top">
 
 ### 🤖 AI Customer Support Coaching Assistant
-**[View Repository →](#)**
 
 `Python` `FastAPI` `LangChain` `ChromaDB` `WebSockets` `LLM`
 
@@ -48,7 +49,6 @@ pronouns: "He/Him"
 <td width="50%" valign="top">
 
 ### ✍️ Handwritten Digit Recognizer
-**[View Repository →](#)**
 
 `Python` `NumPy` `Pandas` `Scikit-learn` `Matplotlib`
 
@@ -62,7 +62,6 @@ pronouns: "He/Him"
 <td width="50%" valign="top">
 
 ### 🌾 Crop Recommendation System
-**[View Repository →](#)**
 
 `Python` `NumPy` `Pandas` `Scikit-learn` `Pickle`
 
