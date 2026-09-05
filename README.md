@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5FA&height=220&section=header&text=Soumyadeep%20Chattopadhyay&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20Generative%20AI%20(LLM%2FRAG)&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5FA&height=220&section=header&text=Soumyadeep%20Chattopadhyay&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Machine%20Learning%20%26%20Generative%20AI&descAlignY=58&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=700&lines=CS+Undergraduate+%40+MSIT%2C+Kolkata+(CGPA%3A+9.21%2F10);Building+Production+ML%2FDL+%26+GenAI+Systems;RAG+Pipelines+%7C+LangChain+%7C+FastAPI+%7C+Multi-Agent+AI;AI+Virtual+Intern+%40+Infosys+Springboard" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=700&lines=CS+Undergraduate+%40+MSIT%2C+Kolkata+(CGPA%3A+9.21%2F10);Backend+%26+API+Development+with+FastAPI;Machine+Learning%2C+Deep+Learning+%26+GenAI+Systems;AI+Virtual+Intern+%40+Infosys+Springboard" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=SoumyadeepChattopadhyay2004&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Followers&query=followers&url=https://api.github.com/users/SoumyadeepChattopadhyay2004&style=for-the-badge&logo=github" alt="Followers"/>
@@ -13,18 +13,18 @@
 
 ## 🧭 About Me
 
-I'm a Computer Science undergraduate at MSIT, Kolkata, focused on building real, working AI systems rather than just studying theory. My current work centers on Generative AI — designing RAG pipelines, multi-agent architectures, and LLM-powered backends with LangChain and FastAPI — alongside a solid foundation in classical Machine Learning and Deep Learning. As an AI Virtual Intern at Infosys Springboard, I've helped boost retrieval accuracy by 28% and cut manual triage time by 45% through production-grade multi-agent automation. I care about writing clean, well-evaluated code, and I'm always looking for ways to turn a research idea into something that actually ships.
+I'm a Computer Science undergraduate at MSIT, Kolkata, with a foundation split evenly between core software engineering and applied Machine Learning/AI. On the engineering side, I design and build backend systems — REST APIs, asynchronous services, and multi-agent architectures — using FastAPI, WebSockets, and solid data structures & algorithms fundamentals. On the ML/AI side, I work on Generative AI systems: RAG pipelines, LLM orchestration, and multi-agent automation with LangChain. As an AI Virtual Intern at Infosys Springboard, I combined both — architecting a fault-tolerant, asynchronous multi-agent backend that boosted retrieval accuracy by 28% and cut manual triage time by 45%. I care equally about clean system design and well-evaluated models, and I'm always looking to build things that are both technically sound and genuinely useful.
 
 ```yaml
 name: Soumyadeep Chattopadhyay
 role: CSE Undergraduate (4th Year) @ MSIT, Kolkata | CGPA: 9.21/10
 current_role: "AI Virtual Intern @ Infosys Springboard"
-focus: [ Machine Learning, Deep Learning, Generative AI, RAG, Multi-Agent Systems ]
-currently_building: "Multi-agent AI systems and RAG pipelines with LangChain + FastAPI"
-currently_learning: "Advanced GenAI architectures, LLM orchestration, scalable ML deployment"
-looking_to_collaborate: "Open-source ML/DL and GenAI/RAG projects"
-looking_for_help: "Scaling AI side projects & contributing to larger production codebases"
-ask_me_about: [ Python, Machine Learning, Deep Learning, LangChain, RAG, FastAPI, LLMs ]
+focus: [ Software Engineering, Backend Development, Machine Learning, Deep Learning, Generative AI ]
+currently_building: "Asynchronous backend systems and multi-agent RAG pipelines with FastAPI + LangChain"
+currently_learning: "System design, scalable backend architecture, advanced GenAI orchestration"
+looking_to_collaborate: "Open-source backend engineering and ML/GenAI projects"
+looking_for_help: "Scaling side projects & contributing to larger production codebases"
+ask_me_about: [ Python, FastAPI, REST APIs, Data Structures & Algorithms, Machine Learning, LangChain, RAG ]
 fun_fact: "I enjoy turning tricky algorithms into clean, elegant code"
 pronouns: "He/Him"
 ```
@@ -41,9 +41,9 @@ pronouns: "He/Him"
 
 `Python` `FastAPI` `LangChain` `ChromaDB` `WebSockets` `LLM`
 
-- Multi-agent backend for real-time coaching across 3 modes via FastAPI + WebSockets
-- RAG pipeline (ChromaDB + OpenAI embeddings) retrieving top-4 context-grounded chunks with async, fault-tolerant processing
-- Built during AI Virtual Internship at Infosys Springboard — contributed to a 28% retrieval accuracy boost
+- Designed and built a **fault-tolerant, asynchronous multi-agent backend** in FastAPI supporting real-time coaching across 3 modes via WebSockets
+- Engineered a RAG pipeline (ChromaDB + OpenAI embeddings) as one component of the system, retrieving top-4 context-grounded chunks
+- Built during AI Virtual Internship at Infosys Springboard — the underlying architecture contributed to a 28% retrieval accuracy boost
 
 </td>
 <td width="50%" valign="top">
@@ -106,6 +106,18 @@ pronouns: "He/Him"
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
+**Software Engineering & Backend Development**
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-6DB33F?style=flat-square"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Asynchronous%20Programming-2E8B57?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20Architecture-2E8B57?style=flat-square"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agile%20Collaboration-2E8B57?style=flat-square"/>
+</p>
+
 **Machine Learning & AI**
 <p>
 <img src="https://img.shields.io/badge/Machine%20Learning-4B0082?style=flat-square"/>
@@ -123,10 +135,7 @@ pronouns: "He/Him"
 <img src="https://img.shields.io/badge/RAG%20Pipelines-0E75B6?style=flat-square"/>
 <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square"/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-0E75B6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Multi--Agent%20Systems-0E75B6?style=flat-square"/>
 <img src="https://img.shields.io/badge/LLMs-0E75B6?style=flat-square"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 </p>
 
 </td>
@@ -155,12 +164,9 @@ pronouns: "He/Him"
 
 **Tools & Platforms**
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-6DB33F?style=flat-square"/>
 </p>
 
 </td>
