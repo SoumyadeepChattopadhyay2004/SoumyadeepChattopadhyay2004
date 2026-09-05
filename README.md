@@ -29,6 +29,63 @@ pronouns: "He/Him"
 
 <br/>
 
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Customer Support Coaching Assistant
+**[View Repository →](#)**
+
+`Python` `FastAPI` `LangChain` `ChromaDB` `WebSockets` `LLM`
+
+- Multi-agent backend for real-time coaching across 3 modes via FastAPI + WebSockets
+- RAG pipeline (ChromaDB + OpenAI embeddings) retrieving top-4 context-grounded chunks with async, fault-tolerant processing
+- Built during AI Virtual Internship at Infosys Springboard — contributed to a 28% retrieval accuracy boost
+
+</td>
+<td width="50%" valign="top">
+
+### ✍️ Handwritten Digit Recognizer
+**[View Repository →](#)**
+
+`Python` `NumPy` `Pandas` `Scikit-learn` `Matplotlib`
+
+- 3-stage classification pipeline trained on 70K MNIST images
+- Achieved **96.82%** test accuracy
+- Full EDA and misclassification analysis with visualized predictions
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 Crop Recommendation System
+**[View Repository →](#)**
+
+`Python` `NumPy` `Pandas` `Scikit-learn` `Pickle`
+
+- Multi-class model recommending 1 of 22 crops from 7 soil/weather features
+- 3-step ML pipeline with deployment-ready model exported via Pickle
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Interactive Data Visualization Dashboards
+**[Cars Dataset →](https://github.com/SoumyadeepChattopadhyay2004/Cars-data-visualization)** · **[Diabetes Dataset →](https://github.com/SoumyadeepChattopadhyay2004/Diabetes-data-visualization)**
+
+`Python` `Streamlit` `Pandas` `Matplotlib` `Seaborn`
+
+- Interactive Streamlit dashboards with filters and visual analysis of real-world datasets
+- Covers EDA, feature exploration, and diagnostic-style insights
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## ⚙️ Tech Arsenal
 
 <table align="center">
@@ -78,6 +135,7 @@ pronouns: "He/Him"
 <img src="https://img.shields.io/badge/EDA-2E8B57?style=flat-square"/>
 <img src="https://img.shields.io/badge/Data%20Wrangling-2E8B57?style=flat-square"/>
 <img src="https://img.shields.io/badge/Data%20Cleaning-2E8B57?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
 
 **Core CS Subjects**
@@ -125,6 +183,8 @@ pronouns: "He/Him"
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyadeepChattopadhyay2004&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
 </div>
 
+<br/>
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -139,18 +199,16 @@ pronouns: "He/Him"
 <img src="https://raw.githubusercontent.com/SoumyadeepChattopadhyay2004/SoumyadeepChattopadhyay2004/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 </div>
 
-> ℹ️ **Setup note:** the snake animation needs a one-time GitHub Action (`platane/snk`) to generate the SVG on your `output` branch. Ask and I'll provide that workflow file.
-
 <br/>
 
 ## 🌍 Connect With Me
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/soumyadeep-chattopadhyay/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:soumyadeepchattopadhyay001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://leetcode.com/u/soumyadeepchattopadhyay001/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.geeksforgeeks.org/profile/soumyadeepchat8jhe"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 
 </div>
 
