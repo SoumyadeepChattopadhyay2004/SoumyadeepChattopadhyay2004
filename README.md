@@ -15,7 +15,7 @@
 
 ```yaml
 name: Soumyadeep Chattopadhyay
-role: CSE Undergraduate (4th Year) @ MSIT, Kolkata | CGPA: 9.21/10
+role: CSE Undergraduate (3rd Year) @ MSIT, Kolkata | CGPA: 9.21/10
 current_role: "AI Virtual Intern @ Infosys Springboard"
 focus: [ Machine Learning, Deep Learning, Generative AI, RAG, Multi-Agent Systems ]
 currently_building: "Multi-agent AI systems and RAG pipelines with LangChain + FastAPI"
@@ -126,7 +126,7 @@ pronouns: "He/Him"
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SoumyadeepChattopadhyay2004&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+<img src="https://raw.githubusercontent.com/SoumyadeepChattopadhyay2004/SoumyadeepChattopadhyay2004/main/metrics.achievements.svg" alt="GitHub Achievements"/>
 </div>
 
 <br/>
@@ -134,7 +134,7 @@ pronouns: "He/Him"
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SoumyadeepChattopadhyay2004&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+<img src="https://raw.githubusercontent.com/SoumyadeepChattopadhyay2004/SoumyadeepChattopadhyay2004/main/metrics.isocalendar.svg" alt="Isometric Contribution Calendar" width="100%"/>
 </div>
 
 <br/>
