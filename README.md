@@ -125,12 +125,6 @@ pronouns: "He/Him"
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyadeepChattopadhyay2004&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/SoumyadeepChattopadhyay2004/SoumyadeepChattopadhyay2004/main/metrics.achievements.svg" alt="GitHub Achievements"/>
-</div>
-
-<br/>
-
 ## 📈 Contribution Activity
 
 <div align="center">
