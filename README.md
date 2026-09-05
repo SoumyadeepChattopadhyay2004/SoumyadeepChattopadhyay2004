@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5FA&height=220&section=header&text=Soumyadeep%20Chattopadhyay&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Machine%20Learning%20%26%20Generative%20AI&descAlignY=58&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=700&lines=CS+Undergraduate+%40+MSIT%2C+Kolkata+(CGPA%3A+9.21%2F10);Backend+Development+with+FastAPI;Machine+Learning%2C+Deep+Learning+and+Generative+AI;AI+Virtual+Intern+%40+Infosys+Springboard" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=700&lines=CS+Undergraduate+%40+MSIT%2C+Kolkata+(CGPA%3A+9.21%2F10);Backend+Development+with+FastAPI;Machine+Learning%2C+Deep+Learning+%26+Generative+AI;AI+Virtual+Intern+%40+Infosys+Springboard" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=SoumyadeepChattopadhyay2004&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Followers&query=followers&url=https://api.github.com/users/SoumyadeepChattopadhyay2004&style=for-the-badge&logo=github" alt="Followers"/>
