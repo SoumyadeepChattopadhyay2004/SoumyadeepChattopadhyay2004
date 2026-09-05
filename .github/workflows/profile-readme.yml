@@ -30,22 +30,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  # 2) Achievements panel (replaces the live "GitHub Trophies" widget)
-  achievements:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@master
-        with:
-          filename: metrics.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-
-  # 3) Isometric contribution calendar (replaces the live "Activity Graph" widget)
+  # 2) Isometric contribution calendar (replaces the live "Activity Graph" widget)
   isocalendar:
     runs-on: ubuntu-latest
     permissions:
