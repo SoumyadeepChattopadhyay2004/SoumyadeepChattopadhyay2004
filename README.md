@@ -1,8 +1,8 @@
 <div align="center">
 
-[![](https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5FA&height=220&section=header&text=Soumyadeep%20Chattopadhyay&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20Generative%20AI%20(LLM%2FRAG)&descAlignY=58&descSize=17)](https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5FA&height=220&section=header&text=Soumyadeep%20Chattopadhyay&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20Generative%20AI%20(LLM%2FRAG)&descAlignY=58&descSize=17)
+[![](https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5FA&height=220&section=header&text=Soumyadeep%20Chattopadhyay&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Applied%20AI%20%7C%20Data%20Visualization&descAlignY=58&descSize=17)](https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5FA&height=220&section=header&text=Soumyadeep%20Chattopadhyay&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Applied%20AI%20%7C%20Data%20Visualization&descAlignY=58&descSize=17)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=700&lines=CS+Undergraduate+%40+MSIT%2C+Kolkata+(CGPA%3A+9.21%2F10);Building+Production+ML%2FDL+and+GenAI+Systems;RAG+Pipelines+%7C+LangChain+%7C+FastAPI+%7C+Multi-Agent+AI;AI+Virtual+Intern+%40+Infosys+Springboard)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=700&lines=CS+Undergraduate+%40+MSIT%2C+Kolkata+(CGPA%3A+9.21%2F10);Building+End-to-End+ML+Systems%2C+Not+Just+Notebooks;Ensemble+Models+%7C+SHAP+%7C+Streamlit+%7C+Deployment;Exploring+Generative+AI+and+RAG+Pipelines)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=SoumyadeepChattopadhyay2004&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)](https://komarev.com/ghpvc/?username=SoumyadeepChattopadhyay2004&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
 [![Followers](https://img.shields.io/badge/dynamic/json?color=success&label=Followers&query=followers&url=https://api.github.com/users/SoumyadeepChattopadhyay2004&style=for-the-badge&logo=github)](https://img.shields.io/badge/dynamic/json?color=success&label=Followers&query=followers&url=https://api.github.com/users/SoumyadeepChattopadhyay2004&style=for-the-badge&logo=github)
@@ -17,15 +17,71 @@
 name: Soumyadeep Chattopadhyay
 role: CSE Undergraduate (4th Year) @ MSIT, Kolkata | CGPA: 9.21/10
 current_role: "AI Virtual Intern @ Infosys Springboard"
-focus: [ Machine Learning, Deep Learning, Generative AI, RAG, Multi-Agent Systems ]
-currently_building: "Multi-agent AI systems and RAG pipelines with LangChain + FastAPI"
-currently_learning: "Advanced GenAI architectures, LLM orchestration, scalable ML deployment"
-looking_to_collaborate: "Open-source ML/DL and GenAI/RAG projects"
-looking_for_help: "Scaling AI side projects & contributing to larger production codebases"
-ask_me_about: [ Python, Machine Learning, Deep Learning, LangChain, RAG, FastAPI, LLMs ]
+focus: [ Machine Learning, Deep Learning, Applied ML Engineering, Data Visualization ]
+currently_building: "AQI Intelligence — an end-to-end AQI prediction system: modular pipeline, SHAP explainability, deployed on Streamlit"
+currently_learning: "Generative AI, RAG pipelines, and LLM orchestration with LangChain"
+engineering_practices: [ Modular code design, reproducible environments, model deployment, version control ]
+looking_to_collaborate: "Open-source ML/DL and data visualization projects"
+looking_for_help: "Contributing to larger production-grade ML codebases"
+ask_me_about: [ Python, Machine Learning, Deep Learning, Data Visualization, Streamlit ]
 fun_fact: "I enjoy turning tricky algorithms into clean, elegant code"
 pronouns: "He/Him"
 ```
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🌫️ [AQI Intelligence](https://github.com/SoumyadeepChattopadhyay2004/AQI-intelligence)**
+
+End-to-end Air Quality Index prediction and monitoring system. Ensemble of Random Forest and XGBoost for prediction, Isolation Forest for anomaly detection, SHAP for explainability — built as separate, reusable modules (`preprocess.py`, `train_model.py`, `explainability.py`) rather than a single notebook, then deployed as a live Streamlit app.
+
+`Python` `XGBoost` `Scikit-learn` `SHAP` `Streamlit` `Modular Architecture`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://aqi-intelligence-yuifhmspuc2b9taqfyysoq.streamlit.app)
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 [AI Customer Support Coaching Assistant](https://github.com/SoumyadeepChattopadhyay2004/AI_Customer_Support_Coaching_Assistant)** ![In Progress](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square)
+
+A generative AI-powered coaching assistant that will analyze customer support interaction transcripts, provide real-time feedback, and generate personalized training recommendations for agents.
+
+`Python` `Generative AI` `LLMs`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🌾 [Crop Recommendation System](https://github.com/SoumyadeepChattopadhyay2004/Crop-Recommendation-System)**
+
+A data-driven agricultural assistant that analyzes soil nutrients and climate parameters to recommend the optimal crop. Trained model, scaler, and encoder are serialized (`.pkl`) for reuse, rather than re-trained on every run.
+
+`Python` `Scikit-learn` `Pandas` `Model Serialization`
+
+</td>
+<td width="50%" valign="top">
+
+**✍️ [Handwritten Digit Recognition](https://github.com/SoumyadeepChattopadhyay2004/Handwritten_Digit_Recognition)**
+
+Deep learning model trained to classify handwritten digits, covering the full pipeline from preprocessing to model evaluation.
+
+`Python` `Deep Learning` `Jupyter Notebook`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![More Projects](https://img.shields.io/badge/View%20All%20Repositories-0E75B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoumyadeepChattopadhyay2004?tab=repositories)
+
+</div>
 
 ---
 
@@ -43,21 +99,21 @@ pronouns: "He/Him"
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4B0082?style=flat-square)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-4B0082?style=flat-square)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0E75B6?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-4B0082?style=flat-square)
 ![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-4B0082?style=flat-square)
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-4B0082?style=flat-square)
 ![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-4B0082?style=flat-square)
-![Cross-Validation](https://img.shields.io/badge/Cross--Validation-4B0082?style=flat-square)
 
-**Generative AI / LLM Engineering**
+**Software Engineering Practices**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-0E75B6?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0E75B6?style=flat-square)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-0E75B6?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-0E75B6?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Modular Design](https://img.shields.io/badge/Modular%20Code%20Design-2E8B57?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Virtual Environments](https://img.shields.io/badge/Virtual%20Environments-2E8B57?style=flat-square)
+![Dependency Management](https://img.shields.io/badge/Dependency%20Management-2E8B57?style=flat-square)
+![Model Deployment](https://img.shields.io/badge/Model%20Deployment-2E8B57?style=flat-square)
+![Technical Documentation](https://img.shields.io/badge/Technical%20Documentation-2E8B57?style=flat-square)
 
 **Data Analysis & Visualization**
 
@@ -65,9 +121,16 @@ pronouns: "He/Him"
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![EDA](https://img.shields.io/badge/EDA-2E8B57?style=flat-square)
-![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-2E8B57?style=flat-square)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-2E8B57?style=flat-square)
+
+**Exploring — Generative AI / LLM Engineering**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0E75B6?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0E75B6?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-0E75B6?style=flat-square)
 
 **Core CS Subjects**
 
@@ -79,12 +142,9 @@ pronouns: "He/Him"
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-6DB33F?style=flat-square)
 
 ---
 
@@ -136,10 +196,10 @@ pronouns: "He/Him"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadeep-chattopadhyay-b29768284)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadeep-chattopadhyay/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumyadeepchattopadhyay001@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/soumyadeepchattopadhyay001/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/soumyadeepchat8jhe)
 
 </div>
 
